@@ -1,0 +1,24 @@
+{
+  "users": {
+    "capexplan": {
+      "username": "capexplan",
+      "password_hash": "5052938c1e100f28e98068a2b6e2f869516a51ed2dd7bc61b7c9975efda2f39d",
+      "role": "service",
+      "description": "Capexplan integration service account",
+      "created_at": "2026-01-25T09:09:55.599839",
+      "last_login": "2026-02-02T20:39:07.560714",
+      "active": true
+    },
+    "admin": {
+      "username": "admin",
+      "password_hash": "3d26847264f466625fb40497c9875b5969d846ab4f6e0a68120aab999a26b33e",
+      "role": "admin",
+      "description": "System administrator",
+      "created_at": "2026-01-25T09:09:55.600092",
+      "last_login": "2026-02-02T21:20:36.290213",
+      "active": true
+    }
+  },
+  "salt": "69af10e90da550a11f933b00982811c3",
+  "updated_at": "2026-02-02T21:20:36.290513"
+}
